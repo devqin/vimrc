@@ -7,7 +7,6 @@ filetype off                  " required
 " alternatively, pass a path where Vundle should install plugins
 " let Vundle manage Vundle, required
  Plugin 'VundleVim/Vundle.vim'
-"
 " Keep Plugin commands between vundle#begin/end.
 
 Plugin 'scrooloose/nerdtree'
