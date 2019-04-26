@@ -76,15 +76,6 @@ let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
 " vim-commentary
 autocmd FileType javascript,css,scss setlocal commentstring=#\ %s
 
-" syntastic
-" set statusline+=%#warningmsg#
-" set statusline+=%{SyntasticStatuslineFlag()}
-" set statusline+=%*
-" let g:syntastic_always_populate_loc_list = 1
-" let g:syntastic_auto_loc_list = 1
-" let g:syntastic_check_on_open = 1
-" let g:syntastic_check_on_wq = 0
-
 " molokai
 let g:molokai_original = 1
 
